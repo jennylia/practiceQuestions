@@ -6,6 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        q413_Arithmetic_Slices.driver();
+        q210_Course_Scheduel_II.driver();
     }
 }
